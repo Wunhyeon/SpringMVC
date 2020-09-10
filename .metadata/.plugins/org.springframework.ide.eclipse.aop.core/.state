@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="MyBatisJava"/>
+<aop-project name="JSR-380"/>
+<aop-project name="SessionScope"/>
+<aop-project name="Validate"/>
+<aop-project name="MessageJava"/>
+<aop-project name="MiniProjectJava"/>
+<aop-project name="SessionScopeBeanXML"/>
+<aop-project name="FormCustomTag"/>
+<aop-project name="FormElement1"/>
+<aop-project name="CommandObject"/>
+<aop-project name="CustomValidator"/>
+<aop-project name="Cookie"/>
+<aop-project name="MyBatisXML"/>
+<aop-project name="MiniProjectXml"/>
+<aop-project name="RequestScopeBeanJava"/>
+<aop-project name="SessionScopeBeanJava"/>
+<aop-project name="ApplicationScope"/>
+<aop-project name="MessageXml"/>
+<aop-project name="RedirectForward"/>
+<aop-project name="ValidationMessage"/>
+<aop-project name="RequestScope"/>
+<aop-project name="InterceptorXml"/>
+<aop-project name="JSR-303"/>
+<aop-project name="RestfulAPI"/>
+<aop-project name="8강 XML로 셋팅하기"/>
+<aop-project name="ApplicationScopeBeanJava"/>
+<aop-project name="InterceptorJava"/>
+<aop-project name="ApplicationScopeBeanXml"/>
+<aop-project name="Properties"/>
+<aop-project name="RequestScopeBeanXml"/>
+<aop-project name="HandleException"/>
+<aop-project name="MVCProject"/>
+</aop-reference-model>

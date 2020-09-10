@@ -1,0 +1,16 @@
+package kr.co.softcampus.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class RestTestController {
+	
+	//@RestController같은 경우는 메소드가 반환하는 문자열 자체가 응답결과가 된다.
+	
+	@GetMapping("/test2")
+	public String test2() {
+		return"test2";
+	}
+
+}
